@@ -1,13 +1,15 @@
 rss_groups:
   技术: &tech
-    美团技术团队: https://tech.meituan.com/feed/
+    科学松鼠会: http://songshuhui.net/feed
   博客: &blog
     月光博客:
-      url: https://www.williamlong.info/rss.xml
+      url: https://www.economist.com/sections/china/rss.xml
       fold: true
     阮一峰的网络日志: https://www.ruanyifeng.com/blog/atom.xml
   新闻: &new
     FT中文网: http://www.ftchinese.com/rss/news
+    凤凰网: http://news.ifeng.com/rss/index.xml
+    纽约时报: https://cn.nytimes.com/rss.html
   综合: &other
     少数派: https://sspai.com/feed
 
