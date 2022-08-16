@@ -8,11 +8,12 @@ rss_groups:
     阮一峰的网络日志: https://www.ruanyifeng.com/blog/atom.xml
   新闻: &new
     FT中文网: http://www.ftchinese.com/rss/news
-    凤凰网: http://news.ifeng.com/rss/index.xml
+    俄罗斯卫星通讯社: https://sputniknews.cn/export/rss2/archive/index.xml
     纽约时报: https://cn.nytimes.com/rss.html
+    联合国新闻: https://news.un.org/feed/subscribe/zh/news/all/rss.xml
   综合: &other
-    少数派: https://sspai.com/feed
-
+    抽屉: https://dig.chouti.com/feed.xml    
+    
 chat_ids:
   -1001530369067:
     <<: *tech
