@@ -11,6 +11,7 @@ rss_groups:
     俄罗斯卫星通讯社: https://sputniknews.cn/export/rss2/archive/index.xml
     纽约时报: https://cn.nytimes.com/rss.html
     联合国新闻: https://news.un.org/feed/subscribe/zh/news/all/rss.xml
+    NBA新闻: https://www.espn.com/espn/rss/nba/news
   综合: &other
     抽屉: https://dig.chouti.com/feed.xml    
     
