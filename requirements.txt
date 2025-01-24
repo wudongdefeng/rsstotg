@@ -7,8 +7,6 @@ httpcore==0.14.7
 httpx==0.22.0
 idna==3.3
 loguru==0.6.0
-libxslt
-libxml2
 lxml==4.8.0
 PyYAML==6.0
 rfc3986==1.5.0
